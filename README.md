@@ -1,11 +1,13 @@
 # evaluacion-mle-wm
 
-Contexto:
+**Contexto:**
+
 Un Científico de Datos ha desarrollado el modelo de ML que se encuentra en el archivo "modelo_DS.ipynb" el cual predice si lloverá o no al dia siguiente. Puedes encontrar la documentación acerca de los datos, así como los datos aquí: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 Sin embargo, durante el proceso de desarrollo de este codigo se fueron acumulando elementos con una estructura deficiente que ponen en riesgo la aplicabilidad, escalamiento y el monitoreo constante del performance del modelo
 
-Instrucciones
+**Instrucciones**
+
 Deberás refactorizar todo el código del archivo "modelo_DS.ipynb" de tal manera que sea un código estructurado, optimizado y listo para ser ejecutado en un proceso productivo. 
 
 Tu refactorización deberá cumplir al menos lo siguiente:
