@@ -1,0 +1,3 @@
+# Ignore wandb files
+wandb/
+notebooks/wandb/
